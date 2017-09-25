@@ -1,6 +1,6 @@
 # countrievue
 
-> a small project to display data from a country rest api
+> A search page to look for countries info
 
 ## Build Setup
 
